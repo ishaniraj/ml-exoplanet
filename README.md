@@ -12,7 +12,7 @@ This project explores the classification of Kepler Objects of Interest (KOIs) us
 - Data preprocessing: missing value handling, feature scaling
 - Data visualtion: Initial data exploration
 
-## 📌 Author
+##  Author
 **Ishani Raj**  
 
 
