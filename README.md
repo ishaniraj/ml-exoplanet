@@ -1,6 +1,9 @@
 # 🌌 Deciphiring the Cosmos: ML for Exoplanetary Analysis
 
-This project explores the classification of Kepler Objects of Interest (KOIs) using Machine Learning. It combines t-SNE visualization with a Random Forest classifier to identify and interpret patterns in confirmed exoplanets, candidates, and false positives.
+The Kepler Space Telescope’s mission has provided a wealth of data in the form of Kepler Objects of
+Interest (KOI), presenting unique challenges and opportunities for astronomical data analysis. This study
+utilises two distinct machine learning techniques to enhance the understanding and classification of
+exoplanets. Firstly, a t-SNE visualisation incorporating several exoplanet statistics is employed to explore the underlying data structure and visualise the complex relationships within the high-dimensional space of Kepler observations. Secondly, a Random Forest classifier is built to independently predict the disposition of KOIs based on their physical and orbital characteristics.
 
 ## Dataset
 - **Source**: [Kepler Exoplanet Search Results (Kaggle)](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results/data)
@@ -12,8 +15,13 @@ This project explores the classification of Kepler Objects of Interest (KOIs) us
 - Data preprocessing: missing value handling, feature scaling
 - Data visualtion: Initial data exploration
 
+## Files
+- `annotated-Exoplanet_Analysis-1`: Full report with annotated analysis and figures
+- `RANDOM_FOREST.ipynb`: Jupyter notebook with code
+- `TSNE.ipynb`: Jupyter notebook with code
+
 ##  Author
-**Ishani Raj**  
+Created by [**Ishani Raj** ](https://github.com/ishaniraj) 
 
 
 
