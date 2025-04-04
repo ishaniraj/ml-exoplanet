@@ -13,7 +13,7 @@ exoplanets. Firstly, a t-SNE visualisation incorporating several exoplanet stati
 - **t-SNE** for dimensionality reduction and visualization
 - **Random Forest** for supervised classification
 - Data preprocessing: missing value handling, feature scaling
-- Data visualtion: Initial data exploration
+- Data visualisation: initial data exploration
 
 ## Files
 - `annotated-Exoplanet_Analysis-1`: Full report with annotated analysis and figures
